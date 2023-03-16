@@ -1,0 +1,3 @@
+C:/Users/junej/Documents/NSCC/PROG2400_DataStructure/Ex/assignment-2-JuneKTMan/cmake-build-debug/CMakeFiles/ASSIGN1.dir
+C:/Users/junej/Documents/NSCC/PROG2400_DataStructure/Ex/assignment-2-JuneKTMan/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/junej/Documents/NSCC/PROG2400_DataStructure/Ex/assignment-2-JuneKTMan/cmake-build-debug/CMakeFiles/rebuild_cache.dir
